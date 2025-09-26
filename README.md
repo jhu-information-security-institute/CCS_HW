@@ -81,6 +81,7 @@ docker images
 ## All DVKA Homeworks
 
 #### [Homework 2 - DVKA Set 1](./Assignments/homework_02/README.md)
+#### [Homework 3 - DVKA Set 2](./Assignments/homework_03/README.md)
 
 ---
 
