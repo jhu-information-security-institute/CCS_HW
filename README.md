@@ -5,7 +5,7 @@
 ### Hardware
 
 - Processors: 1, Cores: 4
-- Memory: 2GB
+- Memory: 4GB
 - Disk Space: Approximately 200GB for all content
 
 ### Software
@@ -82,6 +82,9 @@ docker images
 
 #### [Homework 2 - DVKA Set 1](./Assignments/homework_02/README.md)
 #### [Homework 3 - DVKA Set 2](./Assignments/homework_03/README.md)
+#### [Homework 4 - DVKA Set 3](./Assignments/homework_04/README.md)
+
+- **Note: Updated minimum [hardware requirements](#hardware). Please make the necessary changes in the settings of your own VM to ensure smoother performance.**
 
 ---
 
